@@ -21,4 +21,4 @@ dependencyResolutionManagement {
 
 rootProject.name = "FormValidator"
 include(":app")
-include(":BasicFormValidator")
+include(":basicformvalidator")
