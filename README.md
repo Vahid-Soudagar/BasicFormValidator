@@ -42,8 +42,8 @@ Add the `BasicFormValidator` dependency to your `build.gradle` file.
 
     ```gradle
     dependencies {
-        implementation 'com.github.Vahid-Soudagar:BasicFormValidator:v1.0.1'
-    }
+	        implementation 'com.github.Vahid-Soudagar:basicformvalidator:1.0.1'
+	}
     ```
 
 ### Usage
